@@ -1,1 +1,5 @@
+import pandas
+import matplotlib
+
+
 numpy==1.25.0
